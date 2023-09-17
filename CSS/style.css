@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+}
+
+li, a, button {
+    font-family:
+}
+
+/*header style*/
+.header {
+    background-color: white;
+    display: inline-block;
+
+}
