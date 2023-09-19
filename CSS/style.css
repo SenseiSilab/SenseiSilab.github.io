@@ -91,17 +91,17 @@ button.hover {
 .left-column img {
     margin-left: 100px;
     width: 374px;
-    height: 430px;
+    height: 513px;
     border-radius: 20px;
 }
 
 .right-column p {
     color:#FF5E1A;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .right-column h1 {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 .primary-button {
