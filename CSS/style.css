@@ -162,11 +162,39 @@ button.hover {
     height: 180px;
 }
 
-/*.seeresume {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+.resumebutton {
+    display: flex; 
+    width: 100%;
 }
+
+.resumebutton button {
+    display: flex;
+    justify-content: center;
+}
+
+
+/*skills section*/
+.skills-section {
+    display: flex;
+    width: 100%;
+}
+
+.skills-items {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skill-items li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+
+/*footer*/
+
+.footer {
+    display: flex;
+    width: 100%;
+}
+
