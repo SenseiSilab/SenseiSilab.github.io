@@ -89,7 +89,7 @@ button.hover {
 }
 
 .left-column img {
-    margin-left: 40px;
+    margin-left: 100px;
     width: 374px;
     height: 430px;
     border-radius: 20px;
@@ -162,7 +162,7 @@ button.hover {
     height: 180px;
 }
 
-.seeresume {
+/*.seeresume {
     margin: 0;
     position: absolute;
     top: 50%;
